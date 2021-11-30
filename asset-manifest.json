@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/moogwol.github.io/mr-hangy/static/css/main.941a9420.chunk.css",
-    "main.js": "/moogwol.github.io/mr-hangy/static/js/main.c45e84cb.chunk.js",
-    "main.js.map": "/moogwol.github.io/mr-hangy/static/js/main.c45e84cb.chunk.js.map",
-    "runtime-main.js": "/moogwol.github.io/mr-hangy/static/js/runtime-main.9555b53c.js",
-    "runtime-main.js.map": "/moogwol.github.io/mr-hangy/static/js/runtime-main.9555b53c.js.map",
-    "static/js/2.e3d7f4bf.chunk.js": "/moogwol.github.io/mr-hangy/static/js/2.e3d7f4bf.chunk.js",
-    "static/js/2.e3d7f4bf.chunk.js.map": "/moogwol.github.io/mr-hangy/static/js/2.e3d7f4bf.chunk.js.map",
-    "static/js/3.8468e01e.chunk.js": "/moogwol.github.io/mr-hangy/static/js/3.8468e01e.chunk.js",
-    "static/js/3.8468e01e.chunk.js.map": "/moogwol.github.io/mr-hangy/static/js/3.8468e01e.chunk.js.map",
-    "index.html": "/moogwol.github.io/mr-hangy/index.html",
-    "static/css/main.941a9420.chunk.css.map": "/moogwol.github.io/mr-hangy/static/css/main.941a9420.chunk.css.map",
-    "static/js/2.e3d7f4bf.chunk.js.LICENSE.txt": "/moogwol.github.io/mr-hangy/static/js/2.e3d7f4bf.chunk.js.LICENSE.txt",
-    "static/media/hangman6.aa8e545f.png": "/moogwol.github.io/mr-hangy/static/media/hangman6.aa8e545f.png"
+    "main.css": "/mr-hangy/static/css/main.941a9420.chunk.css",
+    "main.js": "/mr-hangy/static/js/main.c45e84cb.chunk.js",
+    "main.js.map": "/mr-hangy/static/js/main.c45e84cb.chunk.js.map",
+    "runtime-main.js": "/mr-hangy/static/js/runtime-main.22b7db90.js",
+    "runtime-main.js.map": "/mr-hangy/static/js/runtime-main.22b7db90.js.map",
+    "static/js/2.e3d7f4bf.chunk.js": "/mr-hangy/static/js/2.e3d7f4bf.chunk.js",
+    "static/js/2.e3d7f4bf.chunk.js.map": "/mr-hangy/static/js/2.e3d7f4bf.chunk.js.map",
+    "static/js/3.8468e01e.chunk.js": "/mr-hangy/static/js/3.8468e01e.chunk.js",
+    "static/js/3.8468e01e.chunk.js.map": "/mr-hangy/static/js/3.8468e01e.chunk.js.map",
+    "index.html": "/mr-hangy/index.html",
+    "static/css/main.941a9420.chunk.css.map": "/mr-hangy/static/css/main.941a9420.chunk.css.map",
+    "static/js/2.e3d7f4bf.chunk.js.LICENSE.txt": "/mr-hangy/static/js/2.e3d7f4bf.chunk.js.LICENSE.txt",
+    "static/media/hangman6.aa8e545f.png": "/mr-hangy/static/media/hangman6.aa8e545f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9555b53c.js",
+    "static/js/runtime-main.22b7db90.js",
     "static/js/2.e3d7f4bf.chunk.js",
     "static/css/main.941a9420.chunk.css",
     "static/js/main.c45e84cb.chunk.js"
